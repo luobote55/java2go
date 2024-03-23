@@ -3,8 +3,8 @@ package gen
 import (
 	"bytes"
 	"fmt"
+	"github.com/luobote55/java2go/internal/strs"
 	"github.com/pkg/errors"
-	"go-tools/java2go/internal/strs"
 	"google.golang.org/protobuf/reflect/protoreflect"
 	"google.golang.org/protobuf/types/descriptorpb"
 	"io/ioutil"

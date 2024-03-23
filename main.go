@@ -1,10 +1,10 @@
 package main
 
 import (
+	"github.com/luobote55/java2go/ctl"
+	"github.com/luobote55/java2go/do"
+	"github.com/luobote55/java2go/sql"
 	"github.com/spf13/cobra"
-	"go-tools/java2go/ctl"
-	"go-tools/java2go/do"
-	"go-tools/java2go/sql"
 	"log"
 )
 

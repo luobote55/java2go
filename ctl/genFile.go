@@ -3,10 +3,10 @@ package ctl
 import (
 	"bufio"
 	"fmt"
+	"github.com/luobote55/java2go/gen"
+	"github.com/luobote55/java2go/internal/match"
+	"github.com/luobote55/java2go/internal/strs"
 	"github.com/pkg/errors"
-	"go-tools/java2go/gen"
-	"go-tools/java2go/internal/match"
-	"go-tools/java2go/internal/strs"
 	"io"
 	"os"
 	"path/filepath"

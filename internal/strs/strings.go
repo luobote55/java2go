@@ -6,7 +6,7 @@
 package strs
 
 import (
-	"go-tools/java2go/internal/flags"
+	"github.com/luobote55/java2go/internal/flags"
 	"go/token"
 	"strings"
 	"unicode"
